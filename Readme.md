@@ -23,7 +23,7 @@ A simple memory game built with HTML, CSS, and JavaScript. The game board consis
 
 ## Demo
 
-To see the game in action, visit the [live demo](insert-link-here).
+To see the game in action, visit the [live demo](https://luna-hacks-memory-game.netlify.app/).
 
 ## Installation
 
